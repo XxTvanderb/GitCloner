@@ -2,10 +2,10 @@
 Just a simple Python script that clones specific GitHub Repos for you.
 
 # A little bit about myself 
-Well, nothing much to say here, I am 11 and I have a passion for programming ¯\_(ツ)_/¯ .
+Well, nothing much to say here, I am 11 and I have a passion for programming.
 Enough about me, now let's get on to the project.
 
-#Installation: Linux
+# Installation: Linux
 Currently the only platform this works on is linux based shells, so yeah.
 
 1. Open up the terminal cntrl + alt + T or look it up in applications.
