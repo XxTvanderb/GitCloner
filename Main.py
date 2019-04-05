@@ -13,7 +13,7 @@ print("By: Talon 'XxTvanderb' Vanderbeken")
 print("Version: " + vers)
 
 gitURL = input("Enter the link to the Github Repository: ")
-directory = input("Eter directory to clone to: ")
+directory = input("Enter directory to clone to: ")
 import os
 dire = directory
 andAnd= " && "
